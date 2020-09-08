@@ -1,0 +1,8 @@
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\bin\Debug\netcoreapp2.2\Planstreet.Infrastructure.deps.json
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\bin\Debug\netcoreapp2.2\Planstreet.Infrastructure.dll
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\obj\Debug\netcoreapp2.2\Planstreet.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\obj\Debug\netcoreapp2.2\Planstreet.Infrastructure.AssemblyInfo.cs
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\obj\Debug\netcoreapp2.2\Planstreet.Infrastructure.csprojAssemblyReference.cache
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\bin\Debug\netcoreapp2.2\Planstreet.Infrastructure.runtimeconfig.json
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\bin\Debug\netcoreapp2.2\Planstreet.Infrastructure.runtimeconfig.dev.json
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\obj\Debug\netcoreapp2.2\Planstreet.Infrastructure.genruntimeconfig.cache
