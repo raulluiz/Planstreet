@@ -1017,6 +1017,10 @@
       "Planstreet.ApplicationCore/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.2.6",
+          "Microsoft.EntityFrameworkCore.Design": "2.2.6"
+        },
         "compile": {
           "bin/placeholder/Planstreet.ApplicationCore.dll": {}
         },

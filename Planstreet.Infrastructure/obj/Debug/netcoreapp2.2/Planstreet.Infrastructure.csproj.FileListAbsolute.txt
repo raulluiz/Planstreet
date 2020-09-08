@@ -6,3 +6,12 @@ C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\obj\Debug\netco
 C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\bin\Debug\netcoreapp2.2\Planstreet.Infrastructure.runtimeconfig.json
 C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\bin\Debug\netcoreapp2.2\Planstreet.Infrastructure.runtimeconfig.dev.json
 C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\obj\Debug\netcoreapp2.2\Planstreet.Infrastructure.genruntimeconfig.cache
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\bin\Debug\netcoreapp2.2\Planstreet.Infrastructure.pdb
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\bin\Debug\netcoreapp2.2\Planstreet.ApplicationCore.dll
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\bin\Debug\netcoreapp2.2\Planstreet.ApplicationCore.pdb
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\obj\Debug\netcoreapp2.2\Planstreet.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\obj\Debug\netcoreapp2.2\Planstreet.Infrastructure.csproj.CopyComplete
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\obj\Debug\netcoreapp2.2\Planstreet.Infrastructure.dll
+C:\Users\raull\source\repos\Planstreet\Planstreet.Infrastructure\obj\Debug\netcoreapp2.2\Planstreet.Infrastructure.pdb

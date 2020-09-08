@@ -1,0 +1,12 @@
+C:\Users\raull\source\repos\Planstreet\Planstreet.ApplicationCore\bin\Debug\netcoreapp2.2\Planstreet.ApplicationCore.deps.json
+C:\Users\raull\source\repos\Planstreet\Planstreet.ApplicationCore\bin\Debug\netcoreapp2.2\Planstreet.ApplicationCore.dll
+C:\Users\raull\source\repos\Planstreet\Planstreet.ApplicationCore\bin\Debug\netcoreapp2.2\Planstreet.ApplicationCore.pdb
+C:\Users\raull\source\repos\Planstreet\Planstreet.ApplicationCore\obj\Debug\netcoreapp2.2\Planstreet.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\raull\source\repos\Planstreet\Planstreet.ApplicationCore\obj\Debug\netcoreapp2.2\Planstreet.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\raull\source\repos\Planstreet\Planstreet.ApplicationCore\obj\Debug\netcoreapp2.2\Planstreet.ApplicationCore.AssemblyInfo.cs
+C:\Users\raull\source\repos\Planstreet\Planstreet.ApplicationCore\obj\Debug\netcoreapp2.2\Planstreet.ApplicationCore.dll
+C:\Users\raull\source\repos\Planstreet\Planstreet.ApplicationCore\obj\Debug\netcoreapp2.2\Planstreet.ApplicationCore.pdb
+C:\Users\raull\source\repos\Planstreet\Planstreet.ApplicationCore\bin\Debug\netcoreapp2.2\Planstreet.ApplicationCore.runtimeconfig.json
+C:\Users\raull\source\repos\Planstreet\Planstreet.ApplicationCore\bin\Debug\netcoreapp2.2\Planstreet.ApplicationCore.runtimeconfig.dev.json
+C:\Users\raull\source\repos\Planstreet\Planstreet.ApplicationCore\obj\Debug\netcoreapp2.2\Planstreet.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\raull\source\repos\Planstreet\Planstreet.ApplicationCore\obj\Debug\netcoreapp2.2\Planstreet.ApplicationCore.genruntimeconfig.cache
