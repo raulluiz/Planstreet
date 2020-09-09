@@ -6,14 +6,20 @@ using System.Text;
 
 namespace Planstreet.ApplicationCore.Entities
 {
-    public class DefaultFolder
+    public class DocumentFolder
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int DefaultFolderId { get; set; }
+        public int FolderId { get; set; }
 
         [StringLength(100)]
         public string Caption { get; set; }
+
+        public int? ParentFolderId { get; set; }
+
+        public int? ResourceId { get; set; }
+
+        public string Path { get; set; }
 
         public DateTime? CreationTime { get; set; }
 
@@ -28,6 +34,11 @@ namespace Planstreet.ApplicationCore.Entities
 
         public byte? Status { get; set; }
 
-        public ICollection<DocumentFolder> DocumentFolders { get; set; }
+        [StringLength(50)]
+        public string FolderSize { get; set; }
+
+        [ForeignKey("DefaultFolder")]
+        public int? DefaultFolderId { get; set; }
+        public DefaultFolder DefaultFolder { get; set; }
     }
 }

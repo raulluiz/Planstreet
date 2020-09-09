@@ -16,12 +16,14 @@ namespace Planstreet.Infrastructure.Context
         public PlanstreetContext(DbContextOptions<PlanstreetContext> opcoes) : base(opcoes) { }
 
         public DbSet<DefaultFolder> DefaultFolder { get; set; }
+        public DbSet<DocumentFolder> DocumentFolder { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             //modelBuilder.ApplyConfiguration.Remove<PluralizingTableNameConvention>(); //plularização de objetos
             //modelBuilder.Conventions.Remove<OneToManyCascadeDeleteConvention>(); //deleção em cascata de filho
             modelBuilder.ApplyConfiguration(new DefaultFolderConfig());
+            modelBuilder.ApplyConfiguration(new DocumentFolderConfig());
 
         }
 
