@@ -29,5 +29,6 @@ namespace Planstreet.ApplicationCore.Entities
         public byte? Status { get; set; }
 
         public ICollection<DocumentFolder> DocumentFolders { get; set; }
+        public ICollection<DocumentFiles> DocumentFileses { get; set; }
     }
 }

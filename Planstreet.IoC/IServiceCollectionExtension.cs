@@ -17,7 +17,7 @@ namespace Planstreet.IoC
             services.AddScoped(typeof(IBaseService<>), typeof(BaseService<>));
             services.AddScoped<IDefaultFolderService, DefaultFolderService>();
             services.AddScoped<IDocumentFolderService, DocumentFolderService>();
-
+            services.AddScoped<DocumentFilesService, DocumentFilesService>();
 
             RegisterRepository(services);
             RegisterContext(services);
@@ -30,6 +30,7 @@ namespace Planstreet.IoC
             services.AddScoped(typeof(IBaseRepository<>), typeof(BaseRepository<>));
             services.AddScoped<IDefaultFolderRepository, DefaultFolderRepository>();
             services.AddScoped<IDocumentFolderRepository, DocumentFolderRepository>();
+            services.AddScoped<DocumentFilesRepository, DocumentFilesRepository>();
 
             return services;
         }

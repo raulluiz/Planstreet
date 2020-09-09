@@ -8,6 +8,10 @@ C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\bin\Debug\netcoreapp2.2
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\bin\Debug\netcoreapp2.2\Planstreet.WebApp.pdb
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\bin\Debug\netcoreapp2.2\Planstreet.WebApp.Views.dll
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\bin\Debug\netcoreapp2.2\Planstreet.WebApp.Views.pdb
+C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\bin\Debug\netcoreapp2.2\Planstreet.ApplicationCore.dll
+C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\bin\Debug\netcoreapp2.2\Planstreet.Infrastructure.dll
+C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\bin\Debug\netcoreapp2.2\Planstreet.Infrastructure.pdb
+C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\bin\Debug\netcoreapp2.2\Planstreet.ApplicationCore.pdb
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Planstreet.WebApp.csprojAssemblyReference.cache
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Planstreet.WebApp.AssemblyInfoInputs.cache
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Planstreet.WebApp.AssemblyInfo.cs
@@ -28,11 +32,7 @@ C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Planstreet.WebApp.RazorTargetAssemblyInfo.cache
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Planstreet.WebApp.RazorTargetAssemblyInfo.cs
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Planstreet.WebApp.Views.pdb
+C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Planstreet.WebApp.csproj.CopyComplete
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Planstreet.WebApp.dll
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Planstreet.WebApp.pdb
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Planstreet.WebApp.genruntimeconfig.cache
-C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Planstreet.WebApp.csproj.CopyComplete
-C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\bin\Debug\netcoreapp2.2\Planstreet.ApplicationCore.dll
-C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\bin\Debug\netcoreapp2.2\Planstreet.Infrastructure.dll
-C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\bin\Debug\netcoreapp2.2\Planstreet.Infrastructure.pdb
-C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\bin\Debug\netcoreapp2.2\Planstreet.ApplicationCore.pdb

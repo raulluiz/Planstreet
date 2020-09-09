@@ -17,6 +17,7 @@ namespace Planstreet.Infrastructure.Context
 
         public DbSet<DefaultFolder> DefaultFolder { get; set; }
         public DbSet<DocumentFolder> DocumentFolder { get; set; }
+        public DbSet<DocumentFiles> DocumentFiles { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -24,6 +25,7 @@ namespace Planstreet.Infrastructure.Context
             //modelBuilder.Conventions.Remove<OneToManyCascadeDeleteConvention>(); //deleção em cascata de filho
             modelBuilder.ApplyConfiguration(new DefaultFolderConfig());
             modelBuilder.ApplyConfiguration(new DocumentFolderConfig());
+            modelBuilder.ApplyConfiguration(new DocumentFilesConfig());
 
         }
 

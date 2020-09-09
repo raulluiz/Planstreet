@@ -40,5 +40,7 @@ namespace Planstreet.ApplicationCore.Entities
         [ForeignKey("DefaultFolder")]
         public int? DefaultFolderId { get; set; }
         public DefaultFolder DefaultFolder { get; set; }
+
+        public ICollection<DocumentFiles> DocumentFileses { get; set; }
     }
 }

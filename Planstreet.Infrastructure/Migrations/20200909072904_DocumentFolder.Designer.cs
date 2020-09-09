@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Planstreet.Infrastructure.Context;
 
 namespace Planstreet.Infrastructure.Migrations
 {
     [DbContext(typeof(PlanstreetContext))]
-    partial class PlanstreetContextModelSnapshot : ModelSnapshot
+    [Migration("20200909072904_DocumentFolder")]
+    partial class DocumentFolder
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -44,52 +46,6 @@ namespace Planstreet.Infrastructure.Migrations
                     b.HasKey("DefaultFolderId");
 
                     b.ToTable("DefaultFolder");
-                });
-
-            modelBuilder.Entity("Planstreet.ApplicationCore.Entities.DocumentFiles", b =>
-                {
-                    b.Property<int>("FileId")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<string>("ContentType")
-                        .HasMaxLength(500);
-
-                    b.Property<DateTime?>("CreationTime");
-
-                    b.Property<int?>("Creator");
-
-                    b.Property<int?>("DefaultFolderId");
-
-                    b.Property<string>("FileName")
-                        .HasMaxLength(100);
-
-                    b.Property<string>("FileNameOnDisk")
-                        .HasMaxLength(100);
-
-                    b.Property<string>("FilePath")
-                        .HasMaxLength(500);
-
-                    b.Property<int?>("FolderId");
-
-                    b.Property<string>("RemoteHost")
-                        .HasMaxLength(50);
-
-                    b.Property<int?>("ResourceId");
-
-                    b.Property<byte>("Status");
-
-                    b.Property<int?>("Updater");
-
-                    b.Property<DateTime?>("UpdationTime");
-
-                    b.HasKey("FileId");
-
-                    b.HasIndex("DefaultFolderId");
-
-                    b.HasIndex("FolderId");
-
-                    b.ToTable("DocumentFiles");
                 });
 
             modelBuilder.Entity("Planstreet.ApplicationCore.Entities.DocumentFolder", b =>
@@ -130,17 +86,6 @@ namespace Planstreet.Infrastructure.Migrations
                     b.HasIndex("DefaultFolderId");
 
                     b.ToTable("DocumentFolder");
-                });
-
-            modelBuilder.Entity("Planstreet.ApplicationCore.Entities.DocumentFiles", b =>
-                {
-                    b.HasOne("Planstreet.ApplicationCore.Entities.DefaultFolder", "DefaultFolder")
-                        .WithMany("DocumentFileses")
-                        .HasForeignKey("DefaultFolderId");
-
-                    b.HasOne("Planstreet.ApplicationCore.Entities.DocumentFolder", "DocumentFolder")
-                        .WithMany("DocumentFileses")
-                        .HasForeignKey("FolderId");
                 });
 
             modelBuilder.Entity("Planstreet.ApplicationCore.Entities.DocumentFolder", b =>
