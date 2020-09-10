@@ -57,7 +57,7 @@ namespace Planstreet.WebApp
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=DefaultFolder}/{action=Index}/{id?}");
             });
         }
     }

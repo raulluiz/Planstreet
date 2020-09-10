@@ -6,7 +6,10 @@
     <title>@ViewData["Title"] - Planstreet.WebApp</title>
 
     <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
         <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link href="~/lib/DHTMLX/codebase/suite.css" rel="stylesheet" />
+        <script src="~/lib/DHTMLX/codebase/suite.js"></script>
     </environment>
     <environment exclude="Development">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
@@ -48,12 +51,12 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2020 - Planstreet.WebApp - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2020 - Planstreet.WebApp - <a asp-area="" asp-controller="DefaultFolder" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
 
     <environment include="Development">
-        <script src="~/lib/jquery/dist/jquery.js"></script>
+        
         <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
     </environment>
     <environment exclude="Development">

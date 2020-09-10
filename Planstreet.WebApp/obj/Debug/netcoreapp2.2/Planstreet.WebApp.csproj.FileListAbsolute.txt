@@ -21,6 +21,9 @@ C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Planstreet.WebApp.TagHelpers.input.cache
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Planstreet.WebApp.TagHelpers.output.cache
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Planstreet.WebApp.RazorCoreGenerate.cache
+C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Razor\Views\DefaultFolder\Create.cshtml.g.cs
+C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Razor\Views\DefaultFolder\Edit.cshtml.g.cs
+C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Razor\Views\DefaultFolder\Index.cshtml.g.cs
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\raull\source\repos\Planstreet\Planstreet.WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
